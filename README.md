@@ -3,7 +3,7 @@ EZ Homes Email Template Instruction
 1. Download Insert HTML by Designmodo on this link and add to chrome extension https://chromewebstore.google.com/detail/insert-html-by-designmodo/bcflbfdlpegakpncdgmejelcolhmfkjh
 2. Go back to your Gmail and on your compose email interface you will see this **Insert HTML** icon and click it to insert the code<br><br>
 ![image](https://github.com/redsinfuego/ezhome-emailtemplate/assets/153765705/4c1188c3-df88-41f4-980c-b24b20957eec)
-4. Select and click which credit card checker you will use and just copy and paste the codes
+4. Select and click which credit score checker you will use and just copy and paste the codes
 <br><br>
 <a href="https://github.com/redsinfuego/ezhome-emailtemplate/blob/main/email-template" target="_blank"><img src="https://iili.io/JuzBNZQ.png" alt="ClickFreeScore" width="auto" height="40" title="ClickFreeScore"></a>
 <br><br>
