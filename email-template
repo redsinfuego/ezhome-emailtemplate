@@ -1,0 +1,71 @@
+<meta charset="UTF-8">
+<title>Simple Responsive HTML Email Template</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300" rel="stylesheet" type="text/css">
+<style>
+	* {
+		box-sizing: border-box;
+		-moz-box-sizing: border-box;
+	}
+
+	html,
+	body {
+		background: #eeeeee;
+		font-family: 'Open Sans', sans-serif, Helvetica, Arial;
+		padding: 0;
+		margin: 0;
+	}
+
+	/* This is what it makes reponsive. Double check before you use it! */
+	@media only screen and (max-width: 480px) {
+		table tr td {
+			width: 100% !important;
+			float: left;
+		}
+	}
+</style>
+<center>
+	<table width="100%" cellpadding="0" cellspacing="0" bgcolor="FFFFFF" style="background: #ffffff; max-width: 600px !important; margin: 0 auto; background: #ffffff;">
+		<tbody>	
+			<tr>
+				<td style="text-align: center;">
+					<img src="https://iili.io/JuoUBjt.png" alt="Jun1Ydv.md.png" alt="Properties" width="30%" height="30%" jslog="138226; u014N:xr6bB; 53:WzAsMF0.">
+				</td>
+			</tr>
+			<tr>
+				<td style="padding: 20px; text-align: left;">
+					<p style="font-size:30px; margin: 5px;">Hi [Name],</p>
+					<p><span style="color: rgb(55, 65, 81); font-family: Söhne, ui-sans-serif, system-ui, -apple-system, &quot;Segoe UI&quot;, Roboto, Ubuntu, Cantarell, &quot;Noto Sans&quot;, sans-serif, &quot;Helvetica Neue&quot;, Arial, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px; white-space-collapse: preserve;">A property owner has requested your credit report. Click the button below to start the Credit Report authorization process.</span><br></p><p>
+						<span style="color: rgb(55, 65, 81); font-family: Söhne, ui-sans-serif, system-ui, -apple-system, &quot;Segoe UI&quot;, Roboto, Ubuntu, Cantarell, &quot;Noto Sans&quot;, sans-serif, &quot;Helvetica Neue&quot;, Arial, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px; white-space-collapse: preserve;">Ensure to capture a screenshot of your credit score upon receiving it and kindly send it back to my email for review. <br><br></span></p><p><span style="font-family: Söhne, ui-sans-serif, system-ui, -apple-system, &quot;Segoe UI&quot;, Roboto, Ubuntu, Cantarell, &quot;Noto Sans&quot;, sans-serif, &quot;Helvetica Neue&quot;, Arial, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px; white-space-collapse: preserve;"><b style=""><font color="#ff0000">Important:</font></b><font color="#374151">							<br>You will be needing to pay $1 for a 7 days free trial but don't worry because the homeowner will just give you a refund once you are on the viewing of the property. </font></span>
+					</p>
+					<center>
+						<a href="https://www.clickfreescore.com/redirect?pid=90&amp;oid=1&amp;uid=68"><font size="4">
+							</font><div style="border-radius: 6px; -moz-border-radius: 6px; padding: 15px 20px; margin: 10px auto; background: #76ce3e; display: inline-block;">
+								<font face="arial, sans-serif"><font size="4">
+									</font><b><font size="4">
+										<span style="color: #FFFFFF;">Check Your Credit Score</span></font>
+									</b>
+								</font>
+							</div>
+						</a>
+					</center>
+					<p>
+						<span style="color: rgb(55, 65, 81); font-family: Söhne, ui-sans-serif, system-ui, -apple-system, &quot;Segoe UI&quot;, Roboto, Ubuntu, Cantarell, &quot;Noto Sans&quot;, sans-serif, &quot;Helvetica Neue&quot;, Arial, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; white-space-collapse: preserve;"><span style="font-size: 16px;">For more info feel free to call  the customer service. <br></span><b style=""><font size="4">(855) 643-8897</font></b></span>
+					</p>
+					<p style="text-align: left;">
+						<span style="color: rgb(55, 65, 81);font-size: 16px; font-family: Söhne, ui-sans-serif, system-ui, -apple-system, &quot;Segoe UI&quot;, Roboto, Ubuntu, Cantarell, &quot;Noto Sans&quot;, sans-serif, &quot;Helvetica Neue&quot;, Arial, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; white-space-collapse: preserve;">
+						<br> Thanks, <br> Red Sinfuego <br> Property Manager | EZ Homes </span>
+					</p>
+				</td>
+			</tr>
+			<tr>
+				<td></td>
+			</tr>
+			<tr>
+				<td style="padding: 20px; text-align: center; background: #2B2E34;">
+					<span style="color: #FFFFFF; font-size: 12px; text-align: center;">EZ Home is a property management company to help you have easy way for rental applicants to safely provide background information to property owners for consideration in the leasing process. At no point will the property owner have access to your SSN and other sensitive personal information. Your credit rating will not be affected in any way.</span>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+	<span style="color: rgb(102, 102, 102); font-size: 12px;">.</span>
+</center>
