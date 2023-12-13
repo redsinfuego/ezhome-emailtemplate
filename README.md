@@ -7,7 +7,7 @@ EZ Homes Email Template Instruction
 <br><br>
 <a href="https://github.com/redsinfuego/ezhome-emailtemplate/blob/main/email-template" target="_blank"><img src="https://iili.io/JuzBNZQ.png" alt="ClickFreeScore" width="auto" height="40" title="ClickFreeScore"></a>
 <br><br>
-<a href="https://github.com/redsinfuego/ezhome-emailtemplate/blob/main/email-template" target="_blank"><img src="https://iili.io/JuztXnf.md.png" alt="IdentityIQ" title="IdentityIQ" width="auto" height="25"></a>
+<a href="https://github.com/redsinfuego/ezhome-emailtemplate/blob/main/email-template-idiq" target="_blank"><img src="https://iili.io/JuztXnf.md.png" alt="IdentityIQ" title="IdentityIQ" width="auto" height="25"></a>
 5. Once you click the image you will be redirected to the source code of the html email all you need to do is to copy by clicking the copy icon<br><br>
    ![image](https://iili.io/JuzyipS.md.png)
 6. On your compose email click the **Insert HTML** icon and remove <br> and paste the selected code you copy then click Insert Email button<br><br>
