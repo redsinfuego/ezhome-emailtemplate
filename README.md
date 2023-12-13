@@ -5,7 +5,6 @@ EZ Homes Email Template Instruction
 3. Copy and paste the codes below on which checker you will use
 4. Make sure to change the [Name] to your client's name
 
-
 ClickFreeScore: https://github.com/redsinfuego/ezhome-emailtemplate/blob/main/email-template
 IdentityIQ: https://github.com/redsinfuego/ezhome-emailtemplate/blob/main/email-template-idiq
 
