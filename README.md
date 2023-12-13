@@ -5,9 +5,9 @@ EZ Homes Email Template Instruction
    ![image](https://github.com/redsinfuego/ezhome-emailtemplate/assets/153765705/4c1188c3-df88-41f4-980c-b24b20957eec)
 4. Select and click which credit card checker you will use and just copy and paste the codes
 <br><br>
-<a href="[#](https://github.com/redsinfuego/ezhome-emailtemplate/blob/main/email-template)"><img src="https://iili.io/JuzBNZQ.png" alt="ClickFreeScore" width="auto" height="40" title="ClickFreeScore"></a>
+<a href="https://github.com/redsinfuego/ezhome-emailtemplate/blob/main/email-template" target="_blank"><img src="https://iili.io/JuzBNZQ.png" alt="ClickFreeScore" width="auto" height="40" title="ClickFreeScore"></a>
 <br><br>
-<a href="[#](https://github.com/redsinfuego/ezhome-emailtemplate/blob/main/email-template)"><img src="https://iili.io/JuztXnf.md.png" alt="IdentityIQ" title="IdentityIQ" width="auto" height="25"></a>
+<a href="https://github.com/redsinfuego/ezhome-emailtemplate/blob/main/email-template" target="_blank"><img src="https://iili.io/JuztXnf.md.png" alt="IdentityIQ" title="IdentityIQ" width="auto" height="25"></a>
 8. Make sure to change the [Name] to your client's name
 
 
